@@ -3,134 +3,17 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>OnSMR - Innovative SMR Implementation with AI</title>
 <meta name="description" content="OnSMR leads the innovative implementation of Small Modular Reactors (SMRs) with AI technology to drive Canada's clean energy growth and achieve net zero emissions.">
 <meta name="keywords" content="OnSMR, SMR, AI Technology, Clean Energy, Canada, Net Zero, Greenhouse Gas Reduction, Sustainable Energy">
 <meta name="author" content="OnSMR">
 <link rel="icon" href="favicon.ico" type="image/x-icon"> <!-- Add a favicon if available -->
 
-<style>
-  /* Add your CSS styles here */
-  body { 
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
-    line-height: 1.6; 
-    padding: 20px; 
-    background-color: #000; /* Set the background to black */
-    color: #fff; /* Set the text color to white */
-  }
-  .hero { 
-    background: url('images/arctic_1.webp') no-repeat center center; 
-    background-size: cover; 
-    padding: 60px;
-    text-align: center;
-  }
-  .section { 
-    padding: 40px; 
-    position: relative;
-  }
-  .section .background {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    z-index: -1;
-    opacity: 0.5; /* Optional: Makes the background image less prominent so text is more readable */
-  }
-  .navbar { 
-    display: flex; 
-    justify-content: space-between; 
-    align-items: center; 
-    padding: 10px; 
-    background: #000; /* Set the navbar background to black */
-    color: #fff; /* Set the navbar text color to white */
-  }
-  .navbar ul { list-style: none; display: flex; }
-  .navbar li { padding: 0 15px; }
-  .navbar a { 
-    text-decoration: none; 
-    color: #fff; /* Set the navbar links to white */
-  }
-  .footer { 
-    background: #000; /* Set the footer background to black */
-    padding: 20px; 
-    text-align: center; 
-    color: #fff; /* Set the footer text color to white */
-  }
-  .full-size-image {
-    width: 100%; /* Full width */
-    height: auto; /* Maintain aspect ratio */
-  }
-  .contact-section {
-    padding: 40px;
-    text-align: center;
-    background: url('path-to-your-contact-image.jpg') no-repeat center center; 
-    background-size: cover;
-  }
-  .contact-info {
-    background: rgba(0, 0, 0, 0.7); /* Semi-transparent overlay for readability */
-    display: inline-block;
-    padding: 20px;
-    border-radius: 5px;
-    margin-top: 20px;
-  }
-  .contact-info a {
-    color: #00aeef; /* Color for the email link, adjust as needed */
-    text-decoration: none;
-    display: inline-flex;
-    align-items: center;
-  }
-  .contact-info a img {
-    margin-right: 10px; /* Space between icon and text */
-  }
-  .about-background { background: url('path-to-about-background.jpg') no-repeat center center; background-size: cover; }
-  /*.technology-background { background: url('images/technology.jpg') no-repeat center center; background-size: cover; }*/
-  .implementation-background { background: url('path-to-implementation-background.jpg') no-repeat center center; background-size: cover; }
-  .news-background { background: url('path-to-news-background.jpg') no-repeat center center; background-size: cover; }
-  .container { 
-    max-width: 1170px; 
-    margin-left: auto; 
-    margin-right: auto; 
-    padding: 20px; 
-  }
-  button {
-    background-color: #00aeef; /* Example button color, you can change it */
-    color: #fff;
-    border: none;
-    padding: 10px 20px;
-    margin-top: 20px;
-    cursor: pointer;
-  }
-  h2 {
-    color: #333;
-  }
-  ul {
-    list-style: none;
-  }
-  ul ul {
-    margin-left: 20px;
-  }
-  ul ul li {
-    margin: 10px;
-  }
-  table {
-    width: 100%;
-    border-collapse: collapse;
-  }
-  th, td {
-    border: 1px solid #ddd;
-    padding: 8px;
-    text-align: left;
-  }
-  th {
-    background-color: #000;
-  }
-</style>
+
 </head>
 <body>
 
 <header class="navbar">
-  <div class="logo">OnSMR 2</div>
+  <div class="logo"><h1>OnSMR</h1></div>
   <nav>
     <ul>
       <li><a href="#about">About</a></li>
@@ -246,11 +129,6 @@
 <footer class="footer">
   <p>&copy; 2024 OnSMR - All rights reserved.</p>
 </footer>
-  
-
-<script>
-  // Add your JavaScript here
-</script>
 
 </body>
 </html>
