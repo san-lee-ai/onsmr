@@ -130,7 +130,7 @@
 <body>
 
 <header class="navbar">
-  <div class="logo">OnSMR</div>
+  <div class="logo">OnSMR 2</div>
   <nav>
     <ul>
       <li><a href="#about">About</a></li>
